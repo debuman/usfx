@@ -43,12 +43,12 @@ From PyPI (Recommended):
 From GitHub Releases:
 
     # Download wheel from:
-    # https://github.com/devastator-x/usfx/releases/latest
+    # https://github.com/sqzer-x/usfx/releases/latest
     pip install usfx-1.2.0-py3-none-any.whl
 
 From Source (Development):
 
-    git clone https://github.com/devastator-x/usfx.git
+    git clone https://github.com/sqzer-x/usfx.git
     cd usfx
     pip install -e .
 
@@ -295,12 +295,12 @@ PyPI에서 설치 (권장):
 GitHub Releases에서 설치:
 
     # 다운로드:
-    # https://github.com/devastator-x/usfx/releases/latest
+    # https://github.com/sqzer-x/usfx/releases/latest
     pip install usfx-1.2.0-py3-none-any.whl
 
 소스에서 설치 (개발용):
 
-    git clone https://github.com/devastator-x/usfx.git
+    git clone https://github.com/sqzer-x/usfx.git
     cd usfx
     pip install -e .
 
